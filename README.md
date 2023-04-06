@@ -1,6 +1,6 @@
 # Mini Mini Robots
 
-This project is developed for the Mechatronic Design course and by Xor ve Otesi. Mini Mini Robots focuses on creating small-scale, low-cost robots with versatile applications.
+This project is developed for the Mechatronic Design course and by Xor ve Otesi. Mini Mini Robots focuses on creating small-scale, low-cost robots with augmented reality applications.
 
 ## Table of Contents
 
